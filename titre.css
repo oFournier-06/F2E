@@ -1,0 +1,7 @@
+@charset "utf-8";
+.Titre {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 36px;
+	text-align: center;
+	color: #000;
+}
